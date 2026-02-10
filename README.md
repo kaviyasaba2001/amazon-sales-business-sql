@@ -1,9 +1,9 @@
 # Amazon-sales-business-analysis 
+
+ This project analyzes Amazon sales data using Pandas for exploratory data analysis (EDA) and MySQL for validating insights through business-driven SQL queries.
  Used pandas to explore sales, pricing, and customer behavior patterns and translate observations into specific analytical questions.   
  Validated key EDA findings using MySQL by writing structured queries with CTEs, window functions, and aggregations. 
 
-
-This project explores Amazon sales data using **Pandas for EDA** and **MySQL for business-driven SQL analysis**.
 
 ## Objectives
 - Understand sales, pricing, and customer behavior patterns
